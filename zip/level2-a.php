@@ -29,7 +29,7 @@ if(isset($_POST['kirim'])){
         $genap = $i*2;
         echo '
         <label for="bil'.$i.'">Bilangan '.$i.'</label>
-        <input type="number" name="bil'.$i.'" value="'.$genap.'"><br>
+        <input type="number" name="bil'.$i.'" value="'.rand(11,22).'"><br>
         ';
     }
     ?>

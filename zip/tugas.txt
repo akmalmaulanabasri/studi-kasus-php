@@ -1,0 +1,45 @@
+1.
+    a, Susun algoritma (Flowchart) dan program dengan PHP
+        Untuk menginput 2 buah bilangan bulat, kemudian
+        mencetak salah satu bilangan yang nilainya terbesar.
+
+    b, Susun algoritma (Flowchart) dan program dengan PHP
+        untuk menginput 3 buah bilangan bulat, (ketiga bilangan tersebut
+        nilainya tidak sama satu dengan yang lain), kemudian mencetak salah
+        satu bilangan yang nilainya terbesar
+
+    c, Susun algoritma (Flowchart) dan program dengan PHP
+        untuk menginput 4 buah bilangan bulat (ke empat bilangan 
+        tersebut nilainya tidak sama satu dengan yang lain), kemudian
+        mencetaksalah satu bilangan yang nilainya terbesar
+
+2. 
+    a, Susun algoritma (Flowchart) dan program dengan PHP
+        untuk menginput 100 buah bilangan bulat, kemudian
+        mencetak salah satu bilangan yang nilainya terbesar.
+
+    b, Susun algoritma (Flowchart) dan program dengan PHP
+        untuk menginput 100 buah bulangan bulat, (semua bilangan 
+        tersebut tidak sama satu dengan yang lain), kemudianmencetak 
+        salah satu bilangan yang nilainya terbesarr
+
+3.
+    a, Susun algoritma (Flowchart) dan program dengan PHP
+        untuk menginput 3 buah bulangan bulat (ketiga bilangan 
+        tersebut nilainya tidak sama satu dengan yang lain),
+        kemudian mencetak bilangan tersebut ber-urutan mulai 
+        dari yang terkecil sampai dengan nilai yang terbesar
+
+    b, Susun algoritma (Flowchart) dan program dengan PHP
+        untuk menginput 3 buah bilangan bulat, (ketiga bilangan
+        tersebut nilainya tidak sama satu dengan yang lainnya),
+        kemudian cetak bilangan dengan nilai yang tengah (bukan yang
+        terbesar dan juga bukan yang terkecil).
+
+    c, Susun algoritma (Flowchart) dan program dengan PHP
+        untuk menginput 3 buah bilangan yang masing2 menyatakan
+        panjang sisi sebuah segi tiga, kemudian perisa ketiga
+        buah garis tersebut ,
+        Bila ketiga buah garis tersebut sisinya sama maka cetak perkataan "SAMA SISI"
+        bila hanya kedua sisi yang sama maka cetak pernyataan "SAMA KAKI"
+        tapi bila ketiganya tidak sama maka cetak pernyataan "SEMBARANG"

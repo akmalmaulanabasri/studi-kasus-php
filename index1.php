@@ -12,6 +12,7 @@
         <p><a href="level1-a.php">Level 1 : a</a></p>
         <p><a href="level1-b.php">Level 1 : b</a></p>
         <p><a href="level1-c.php">Level 1 : c</a></p>
+        <p><a href="level2-a.php">Level 2 : a</a></p>
     </center>
     <hr>
     <center>

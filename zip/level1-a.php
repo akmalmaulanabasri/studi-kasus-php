@@ -5,20 +5,11 @@
         $bilangan1 = $_POST['bil1'];
         $bilangan2 = $_POST['bil2'];
 
-        //validasi bilangan bulat
-    if($_POST['bil1'] %= 2){
-        $hasil1 = "Bilangan 1 Bukan bilangan bulat";
-}else{
-    if($_POST['bil2'] %= 2){
-        $hasil1 = "Bilangan 2 bukan bilangan bulat";
-}else{
     if($bilangan1 >= $bilangan2){
         $hasil1 = "Bilangan $bilangan1 Lebih Besar dari $bilangan2";
 }elseif($bilangan1 <= $bilangan2){
         $hasil1 = "Bilangan $bilangan2 Lebih Besar dari $bilangan1";
         }
-    }
-}
     }else{
         $bilangan1 = "";
         $bilangan2 = "";
